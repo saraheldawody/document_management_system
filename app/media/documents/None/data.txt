@@ -1,0 +1,193 @@
+WORLD	Cases	New cases	Deaths	New deaths	% of deaths	Serious & Critical	Recovered	Links
+United States	93,105	7,778	1,374	80	1.48%	1,677	2,297	Source
+China	81,340	55	3,292	5	4.05%	1,034	74,588	Source
+Italy	86,498	5,959	9,134	919	10.56%	3,732	10,950	Source
+Spain	57,786	0	4,365	0	7.55%	3,679	7,015	Source
+Germany	47,639	3,701	286	19	0.60%	855	8,428	Source
+Iran	32,332	2,926	2,378	144	7.35%	2,893	11,133	Source
+France	29,155	0	1,696	0	5.82%	3,375	4,948	Source
+Switzerland	11,753	0	192	0	1.63%	N/A	4	Source
+United Kingdom	11,658	0	578	0	4.96%	20	135	Source
+South Korea	9,332	91	139	7	1.49%	N/A	4,528	Source
+Netherlands	8,603	1,172	546	112	6.35%	1,034	2	Source
+Austria	6,398	0	49	0	0.77%	16	9	Source
+Belgium	6,235	0	220	0	3.53%	605	675	Source
+Canada	4,039	0	39	0	0.97%	23	225	Source
+Turkey	3,629	0	75	0	2.07%	N/A	N/A	Source
+Portugal	3,544	0	60	0	1.69%	61	43	Source
+Norway	3,346	0	14	0	0.42%	70	N/A	Source
+Australia	3,143	333	13	0	0.41%	10	194	Source
+Brazil	2,915	0	77	0	2.64%	N/A	1	Source
+Sweden	2,806	0	66	0	2.35%	N/A	N/A	Source
+Israel	2,693	0	8	0	0.30%	46	66	Source
+Malaysia	2,161	130	26	3	1.20%	54	215	Source
+Denmark	2,017	0	41	0	2.03%	94	3	Source
+Czech Republic	1,925	0	9	0	0.47%	2	10	Source
+Ireland	1,819	0	19	0	1.04%	25	N/A	Source
+Luxembourg	1,453	0	9	0	0.62%	N/A	N/A	Source
+Ecuador	1,403	0	34	0	2.42%	41	3	Source
+Japan	1,401	0	47	0	3.35%	56	359	Source
+Chile	1,306	0	3	0	0.23%	N/A	33	Source
+Poland	1,221	0	16	0	1.31%	2	0	Source
+Pakistan	1,193	0	9	0	0.75%	N/A	21	Source
+Thailand	1,136	91	5	1	0.44%	12	97	Source
+Russia	1,036	196	3	0	0.29%	N/A	45	Source
+Romania	1,029	0	23	0	2.24%	8	94	Source
+Saudi Arabia	1,012	0	2	0	0.20%	N/A	8	Source
+Finland	958	78	5	2	0.52%	22	10	Source
+South Africa	927	0	2	2	0.22%	N/A	4	Source
+Indonesia	893	103	78	20	8.73%	N/A	35	Source
+Greece	892	0	26	0	2.91%	57	42	Source
+Philippines	803	96	54	9	6.72%	1	31	Source
+Iceland	802	0	0	0	0.00%	1	82	Source
+India	724	30	17	1	2.35%	N/A	67	Source
+Diamond Princess	712	0	10	0	1.40%	9	601	Source
+Singapore	683	0	2	0	0.29%	18	172	Source
+Panama	674	0	9	0	1.34%	N/A	2	Source
+Argentina	589	0	12	0	2.04%	N/A	63	Source
+Mexico	585	0	8	0	1.37%	17	23	Source
+Peru	580	0	7	0	1.21%	9	2	Source
+Slovenia	562	0	6	0	1.07%	11	0	Source
+Qatar	549	0	0	0	0.00%	N/A	43	Source
+Estonia	538	0	1	0	0.19%	N/A	8	Source
+Egypt	495	0	24	0	4.85%	N/A	130	Source
+Croatia	495	0	2	0	0.40%	6	22	Source
+Hong Kong	519	65	4	0	0.77%	N/A	111	Source
+Colombia	491	0	6	0	1.22%	N/A	8	Source
+Dominican Republic	488	0	10	0	2.05%	N/A	2	Source
+Bahrain	458	0	4	0	0.87%	1	210	Source
+Serbia	457	0	1	0	0.22%	1		Source
+Iraq	382	66	36	9	9.42%	N/A	105	Source
+Lebanon	368	0	6	0	1.63%	2	3	Source
+New Zealand	368	0	0	0	0.00%	1	27	Source
+Algeria	367	0	25	0	6.81%	N/A	77	Source
+United Arab Emirates	333	85	2	0	0.60%	2	52	Source
+Armenia	329	63	1	1	0.30%	0	18	Source
+Lithuania	290	0	4	0	1.38%	N/A	1	Source
+Bulgaria	276	56	3	0	1.09%	2	3	Source
+Morocco	275	0	10	0	3.64%	N/A	8	Source
+Taiwan	267	15	2	0	0.75%	0	30	Source
+Hungary	261	0	10	0	3.83%	N/A	28	Source
+Latvia	244	0	0	0	0.00%	N/A	N/A	Source
+Costa Rica	231	0	2	0	0.87%	N/A	2	Source
+Slovakia	226	10	0	0	0.00%	N/A	N/A	Source
+Andorra	224	36	3	3	1.34%	N/A	3	Source
+San Marino	218	0	21	0	9.63%	13	5	Source
+Uruguay	217	0	0	0	0.00%	4	2	Source
+Jordan	212	0	0	0	0.00%	N/A	1	Source
+Kuwait	208	0	0	0	0.00%	7	57	Source
+North Macedonia	201	24	3	1	1.49%	0	3	Source
+Tunisia	200	0	5	0	2.50%	N/A	1	Source
+Ukraine	196	0	5	0	2.55%	N/A	1	Source
+Bosnia	192	7	3	0	1.56%	N/A	5	Source
+Moldova	177	28	2	1	1.13%	N/A	2	Source
+Albania	174	28	6	1	3.45%	3	17	Source
+Vietnam	153	0	0	0	0.00%	N/A	17	Source
+Burkina Faso	152	6	7	0	4.61%	N/A	10	Source
+Cyprus	146	22	3	0	2.05%	6	1	Source
+Malta	134	5	0	0	0.00%	1	2	Source
+Ghana	132	0	3	0	2.27%	N/A	1	Source
+Oman	131	22	0	0	0.00%	0	23	Source
+Kazakhstan	125	45	0	0	0.00%	N/A	N/A	Source
+Azerbaijan	122	29	3	1	2.46%	5	10	Source
+Brunei	114	5	0	0	0.00%	N/A	5	Source
+Venezuela	107	0	1	0	0.93%	2	31	Source
+Sri Lanka	106	4	0	0	0.00%	N/A	7	Source
+Senegal	105	6	0	0	0.00%	N/A	9	Source
+Cambodia	98	0	0	0	0.00%	N/A	11	Source
+Ivory Coast	96	16	0	0	0.00%	N/A	3	Source
+Afghanistan	94	0	2	0	2.13%	N/A	2	Source
+Cameroon	88	18	1	0	1.14%	N/A	2	Source
+Kosovo	86	15	1	0	1.16%	N/A	1	Source
+Belarus	86	0	0	0	0.00%	N/A	22	Source
+Palestine	84	1	0	0	0.00%	0	17	Source
+Uzbekistan	83	18	1	1	1.20%	4	N/A	Source
+Mauritius	81	29	2	0	2.47%	N/A	N/A	Source
+Georgia	81	4	0	0	0.00%	1	13	Source
+Montenegro	70	3	1	0	1.43%	N/A	N/A	Source
+Cuba	67	19	2	1	2.99%	2	1	Source
+Nigeria	65	14	1	0	1.54%	N/A	3	Source
+Trinidad and Tobago	61	0	1	0	1.64%	N/A	N/A	Source
+Bolivia	61	0	0	0	0.00%	N/A	N/A	Source
+Kyrgyzstan	58	14	0	0	0.00%	N/A	N/A	Source
+Northern Cyprus	56	14	0	0	0.00%	N/A	3	Source
+Liechtenstein	56	5	0	0	0.00%	N/A	N/A	Source
+DR Congo	54	3	5	2	9.26%	N/A	2	Source
+Paraguay	52	15	3	0	5.77%	N/A	N/A	Source
+Honduras	52	0	1	0	1.92%	N/A	N/A	Source
+Rwanda	50	10	0	0	0.00%	0	0	Source
+Bangladesh	48	4	5	0	10.42%	N/A	11	Source
+Gibraltar	35	9	0	0	0.00%	N/A	13	Source
+Guernsey	34	4	0	0	0.00%	N/A	N/A	Source
+Monaco	33	6	0	0	0.00%	N/A	1	Source
+Jersey	32	16	1	1	3.13%	N/A	N/A	Source
+Kenya	31	0	1	0	3.23%	0	1	Source
+Macau	31	2	0	0	0.00%	N/A	10	Source
+French Polynesia	30	5	0	0	0.00%	N/A	N/A	Source
+Aruba	28	9	0	0	0.00%	N/A	1	Source
+Isle of Man	26	3	0	0	0.00%	N/A	N/A	Source
+Jamaica	25	0	1	0	4.00%	N/A	N/A	Source
+Guatemala	25	2	1	0	4.00%	N/A	5	Source
+Togo	24	0	0	0	0.00%	N/A	1	Source
+Barbados	24	6	0	0	0.00%	0	0	Source
+Madagascar	23	4	0	0	0.00%	1	0	Source
+Zambia	16	4	0	0	0.00%	N/A	0	Source
+Ethiopia	16	4	0	0	0.00%	N/A	4	Source
+Bermuda	15	8	0	0	0.00%	N/A	N/A	Source
+New Caledonia	15	1	0	0	0.00%	N/A	N/A	Source
+Uganda	14	5	0	0	0.00%	N/A	0	Source
+Maldives	13	0	0	0	0.00%	N/A	9	Source
+El Salvador	13	4	0	0	0.00%	N/A	N/A	Source
+Tanzania	13	1	0	0	0.00%	N/A	N/A	Source
+Equatorial Guinea	12	3	0	0	0.00%	N/A	N/A	Source
+Djibouti	11	0	0	0	0.00%	0	0	Source
+Mongolia	11	1	0	0	0.00%	2	N/A	Source
+Bahamas	9	5	0	0	0.00%	0	1	Source
+Eswatini	9	4	0	0	0.00%	0	0	Source
+Greenland	9	3	0	0	0.00%	N/A	2	Source
+Cayman Islands	8	0	1	0	12.50%	N/A	N/A	Source
+Niger	8	6	1	1	12.50%	N/A	N/A	Source
+Suriname	8	0	0	0	0.00%	N/A	N/A	Source
+Namibia	8	2	0	0	0.00%	0	0	Source
+Haiti	8	1	0	0	0.00%	N/A	N/A	Source
+Seychelles	7	0	0	0	0.00%	1	0	Source
+Grenada	7	0	0	0	0.00%	1	0	Source
+Antigua and Barbuda	7	4	0	0	0.00%	0	0	Source
+Curaçao	7	1	1	0	14.29%	N/A	N/A	Source
+Gabon	7	1	1	0	14.29%	N/A	N/A	Source
+Benin	6	0	0	0	0.00%	N/A	N/A	Source
+Eritrea	6	5	0	0	0.00%	N/A	0	Source
+Guyana	5	0	1	0	20.00%	N/A	N/A	Source
+Cape Verde	5	1	1	1	20.00%	N/A	N/A	Source
+Zimbabwe	5	2	1	0	20.00%	0	0	Source
+Syria	5	0	0	0	0.00%	0	0	Source
+Fiji	5	0	0	0	0.00%	N/A	0	Source
+Mozambique	5	4	0	0	0.00%	N/A	0	Source
+Montserrat	5	3	0	0	0.00%	N/A	N/A	Source
+Myanmar	5	2	0	0	0.00%	N/A	0	Source
+Chad	5	1	0	0	0.00%	N/A	N/A	Source
+Guinea	5	1	0	0	0.00%	N/A	1	Source
+Central African Republic	5	1	0	0	0.00%	N/A	3	Source
+Vatican City	4	0	0	0	0.00%	N/A	N/A	Source
+Mali	4	2	0	0	0.00%	N/A	0	Source
+The Gambia	4	1	1	0	25.00%	N/A	N/A	Source
+Congo Republic	4	-2	0	0	0.00%	N/A	N/A	Source
+Liberia	3	-1	0	0	0.00%	N/A	N/A	Source
+Angola	3	0	0	0	0.00%	N/A	N/A	Source
+Saint Lucia	3	0	0	0	0.00%	0	1	Source
+Nepal	3	0	0	0	0.00%	N/A	1	Source
+Sint Maarten	3	1	0	0	0.00%	N/A	0	Source
+Mauritania	3	1	0	0	0.00%	0	0	Source
+Sudan	3	1	1	0	33.33%	N/A	N/A	Source
+Bhutan	3	1	0	0	0.00%	N/A	N/A	Source
+Nicaragua	2	0	1	1	50.00%	0	0	Source
+St. Kitts and Nevis	2	0	0	0	0.00%	N/A	0	Source
+British Virgin Islands	2	0	0	0	0.00%	N/A	0	Source
+Guinea-Bissau	2	0	0	0	0.00%	N/A	0	Source
+Somalia	2	1	0	0	0.00%	N/A	N/A	Source
+Turks and Caicos Islands	2	1	0	0	0.00%	N/A	0	Source
+Belize	2	1	0	0	0.00%	N/A	0	Source
+Timor-Leste	1	1	0	0	0.00%	N/A	N/A	Source
+Libya	1	0	0	0	0.00%	N/A	0	Source
+Papua New Guinea	1	0	0	0	0.00%	N/A	0	Source
+Saint Vincent and the Grenadines	1	0	0	0	0.00%	N/A	N/A	Source

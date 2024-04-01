@@ -1,0 +1,29 @@
+1. write equation for linear regression.
+2. write equation for logistic regression
+3. how will You calculate AUCROC value manually.
+4. what performance metrics you used in model building
+5. Assumptions of linear regression.
+6. differt ways you used to treat missing values and outliers.
+7 . feature selection
+8 . explain decision tree. 
+9 . difference between k-means and knn
+10. what is k in knn
+11. Explain every step you did in your project. (most important)
+12. Confusion matrics.
+13. why we use cross-validation
+14. what is pruning of decision tree and why we do it.
+15. If we have 100gb of data , how will you manage to build model on your machine.
+16. central limit theorm.
+
+@@@@ sql question. 
+
+1. how will convert DD/MM/YYYY to sql date format  DD-MM-YYYY
+
+2. Difference between truncate, drop, delete
+3. sequence of executions of functions in the given example.
+4. get sum , avg, percentage of category in data.
+5. get 1st 3 letter of name
+6. what is schemas
+7. what are datatypes in sql.
+8. output for outerjoin , inner join.
+10. write selct query for given example.
